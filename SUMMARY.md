@@ -7,7 +7,7 @@
     * [第一次交流](start/first-talk.md)
 * [Projects](projects/README.md)
     * [简练日志小站](projects/concise-life-site.md)
-    * [自怼圈统计工具](projects/du-tools.md)
+    * [自怼圈 st 统计工具](projects/du-tools-st.md)
 * [Fitness](fitness/README.md)
     * [吃睡练](fitness/eat-sleep-exercise.md) 
 
