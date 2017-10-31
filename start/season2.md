@@ -39,5 +39,7 @@
 	- 每周和 Jerry 英语聊天两次
 	- 休息日和学编程的国外小伙伴们搭讪
 
+## Changelog
 
+- 20171031 zoejane init
 
